@@ -5,13 +5,17 @@ Below are some app preview screenshots,
 
 
 <h3>Home Screen</h3>
-![image](https://github.com/noobiethe13/toToDo/assets/120400505/f1bcbb7c-ed2f-4602-a06b-5d82c46200ff)
+![image](https://github.com/noobiethe13/toToDo/assets/120400505/0c238ef1-722a-4699-b057-44e5d6af4119)
+
 <h3>Add New Tasks</h3>
-![image](https://github.com/noobiethe13/toToDo/assets/120400505/b49f2a43-f5ca-453f-9eff-9e8232ed08dd)
+![image](https://github.com/noobiethe13/toToDo/assets/120400505/02a1f0f3-d24d-4517-a014-89ef00043023)
+
 <h3>Mark when done</h3>
-![image](https://github.com/noobiethe13/toToDo/assets/120400505/55b8e274-e094-4200-89af-0d8f8d0ef88f)
+![image](https://github.com/noobiethe13/toToDo/assets/120400505/49863867-6396-4789-baee-807f25a3e58d)
+
 <h3>Swipe to Delete</h3>
-![image](https://github.com/noobiethe13/toToDo/assets/120400505/7ca57fe7-b20b-449a-9add-d1168ae071c2)
+![image](https://github.com/noobiethe13/toToDo/assets/120400505/6f741283-b237-4642-b10b-1fbe040339d5)
+
 
 
 
