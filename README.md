@@ -2,4 +2,5 @@
 
 A to-do app built with Flutter and Dart.
 
-![image](https://github.com/noobiethe13/toToDo/assets/120400505/efb78475-e2d1-4298-8ca8-77053d5fe9e9)
+![image](https://github.com/noobiethe13/toToDo/assets/120400505/7a979da8-5df4-44db-8295-65d7eaa393a2)
+
