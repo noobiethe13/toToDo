@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017312786894",
+    "project_id": "totodo-cadda",
+    "storage_bucket": "totodo-cadda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017312786894:android:f492f2b9ede2777431d39f",
+        "android_client_info": {
+          "package_name": "com.example.totodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClWAq31QhBZzoftAt4I6fxG7SmYBwb55k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
